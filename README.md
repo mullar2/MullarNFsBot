@@ -85,7 +85,7 @@
   <img mullar2/MullarNFsBot/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TOXIC+LOVER-V2+XMD;DEPLOYMENT+SIGHT"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mullar-Nfs-Bot;DEPLOYMENT+SIGHT"alt="Animated
 
 <div align="center">
   <table>
@@ -136,7 +136,7 @@
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+  <p style="color: #ffffff;">This bot is bot is the best.</p>
 </div>
 
 <div align="center">
