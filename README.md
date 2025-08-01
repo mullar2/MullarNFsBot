@@ -1,41 +1,174 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴🄴+🄸🅂+🄷🄴🅁🄴2👆)](https://git.io/typing-svg)
- <br>
-
-3.👇 Create Account on Heroku  
-[![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🄲🅁🄴🄰🅃🄴+🄰🄲🄲🄾🅄🄽🅃+🄾🄽+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
-<br>
-
-4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/ibra-pixel/Ibupixel-/tree/main)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🄳🄴🄿🄻🄾🅈+🄾🄽+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
-<a href="https://wa.me/255628848298">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=MULLAR-NFS%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;Mullar;Nfs;-Bot;REPO" alt="Typing SVG" /></a>
+  </p>
+```
 
-**OWNER**
-<p align="centre">
-  <a href="https://wa.me/255628848298">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+<div align="center">
+  <a href="https://github.com/mullar2"/followers"><img title="Followers" src="https://img.shields.io/github/followers/mullar2?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mullar2/Mullar-Nfs-Bot"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mullar2/Mullar-Nfs-Bot?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Mullar2/Mullar-Nfs-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mullar2/Mullar-Nfs-Bot?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Mullar2/Mullar-Nfs-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/mullar2/Mullar-Nfs-Bot?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/mullar2/Mullar-Nfs-Bot /graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?usernamer=mullar2/Mullar-Nfs-Bot&label=VISITORS&style=flat-square&color=0002FF" />
+</p>
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+ LATEST UPDATES 7.007.738.
 
-   ###
+---
+<div align="center">
+  <img src="https://files.catbox.moe/jfnv5z.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
 
-CONTACT DEVELOPER ON WHATSAPP 
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+</div>
 
-<a href="https://wa.me/255628848298" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/Mr b² contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CONTACT+ME👆)](https://git.io/typing-svg)
- 
-<a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Mr b² CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FOLLOW+CHANEL👆)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/divider.gif?raw=true" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TXLV-V2+XMD;DEPLOYMENT+STEPS"alt="Animated
+
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+  
+### <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/mullar2/MullarNFsBot/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
+
+</div>
+
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+### <img src="https://github.com/mullar2/Mullar-Nfs-Bot /blob/main/assets/keyicon.gif?raw=true" width="25"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TXLV-V2+XMD;SESSION+ID+LINKS"alt="Animated
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  
+--- 
+  > **😈Mullars SESSION LINK (01)😈**
+  <a href='https://on-vybe.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
+  
+  > **🚫 Mullars SESSION LINK (02)😈**
+  <a href='https://on-vybe.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  ---
+  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="https://github.com/mullar2/MullarNFsBot/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
+
+</div>
+
+<div align="center">
+  <img mullar2/MullarNFsBot/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TOXIC+LOVER-V2+XMD;DEPLOYMENT+SIGHT"alt="Animated
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Mullar2/Mullar-Nfs-Bot" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=mullar2/Mullar-Nfs-Bot" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://render.com/deploy?repo=https://github.com/mullar2/Mullar-Nfs-Bot" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+<p align="center">
+  <a href="https:talkdrove.com?referralCode=usJR_h">
+    <img src="https://img.shields.io/badge/TALKDOVE-talkdrove?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45" />
+  </a>
+
+<div align="center">
+  <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mullar+NFs;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
+
+<div align="center">
+  <img src="https://github.com/Mullar2/Mullar-Nfs-Bot/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://files.catbox.moe/ohumzd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
+## 🪀  SUPPORT CHANNEL
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Mullar2/Mullar-Nfs-Bot/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=WARNING;" alt="Typing SVG" /></a>
+  </p>
+
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
+  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+</div>
+    <a href="https://github.com/mullar2/Mullar-Nfs-Bot"
+    <img src="https://github-readme-stats.vercel.app/api?username=muller3&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mullar2/Mullar-Nfs-Bot/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=mullars;BOT" alt="Typing SVG" /></a>
+  </p>
+
+```diff
++ Project Status: Active
+! Version: 3.0.0 Neon Edition
+# License: APACHE
+```
+
+<div align="center">
+  <img src="https://github.com/Mullar2/Mullar-Nfs-Bot/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/mullar2">
+    <img title="Developer" src="https://img.shields.io/badge/Author-Mullar%20NFs-FF00FF.svg?style=big-square&logo=github" />
+  </a>
+</p>[
+<div align="center">
+  <img src="https://files.catbox.moe/a2a1c3.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
