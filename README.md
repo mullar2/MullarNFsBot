@@ -1,38 +1,41 @@
-# MullarNFsBot
-let reply = "Hi, I'm " + BOT_NAME;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴🄴+🄸🅂+🄷🄴🅁🄴2👆)](https://git.io/typing-svg)
+ <br>
 
-  if (msg.includes("hi") || msg.includes("hello")) {
-    reply = "Hello! I'm " + BOT_NAME + ", how can I assist you?";
-  } else if (msg.includes(".play song")) {
-    const song = msg.sppackage.json`
-```json
-{
-  "name": "mullar-nfs-bot",
-  "version": "1.0.0",
-  "description": "A simple WhatsApp chatbot",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "axios": "^1.6.0",
-    "express": "^4.18.2",
-    "node-fetch": "^3.3.2"
-  }
-}
-```
+3.👇 Create Account on Heroku  
+[![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
 
-`index.js`
-```js
-const express = require('express');
-const app = express();
-const PORT = process.env.PORT || 3000;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🄲🅁🄴🄰🅃🄴+🄰🄲🄲🄾🅄🄽🅃+🄾🄽+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
+<br>
 
-const BOT_NAME = "Mullar-NFS";
-const OWNER = "Mullar";
+4.👇 Deploy to Heroku If your have account
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/ibra-pixel/Ibupixel-/tree/main)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🄳🄴🄿🄻🄾🅈+🄾🄽+🄷🄴🅁🄾🄺🅄👆)](https://git.io/typing-svg)
+<a href="https://wa.me/255628848298">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
-app.use(express.json());
 
-app.post('/webhook', (req, res) => {
-  const msg = req.body.message?.toLowerCase() || '';
-lit(".play song")[1]?.trim();
+
+**OWNER**
+<p align="centre">
+  <a href="https://wa.me/255628848298">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   ###
+
+CONTACT DEVELOPER ON WHATSAPP 
+
+<a href="https://wa.me/255628848298" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/Mr b² contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CONTACT+ME👆)](https://git.io/typing-svg)
+ 
+<a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Mr b² CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FOLLOW+CHANEL👆)](https://git.io/typing-svg)
