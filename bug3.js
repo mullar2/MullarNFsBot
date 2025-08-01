@@ -7,7 +7,7 @@ const blastAttack = async (m, Matrix) => {
     ? m.body.slice(prefix.length).trim().split(' ')[0].toLowerCase()
     : '';
 
-  if (cmd !== 'xeon-blast') return;
+  if (cmd !== 'Mullar-Nfs-Bot) return;
 
   const botNumber = await Matrix.decodeJid(Matrix.user.id);
   const senderId = m.sender;
@@ -47,7 +47,7 @@ const blastAttack = async (m, Matrix) => {
   // Cas 2: Utilisé directement dans un groupe
   if (m.isGroup) {
     await Matrix.sendMessage(m.from, {
-      text: `🚨 *XEON-BLAST LAUNCHED*\n🧨 Target: ${m.from}\n💬 Messages: ${attackLines.length}`,
+      text: `🚨 *Mullar-NFS LAUNCHED*\n🧨 Target: ${m.from}\n💬 Messages: ${attackLines.length}`,
     }, { quoted: m });
 
     for (let line of attackLines) {
@@ -58,7 +58,7 @@ const blastAttack = async (m, Matrix) => {
     }
 
     await Matrix.sendMessage(m.from, {
-      text: `✅ *XEON-BLAST COMPLETE*\n🔥 Target group affected.`,
+      text: `✅ *Mullar-NFS COMPLETE*\n🔥 Target group affected.`,
     }, { quoted: m });
 
     return;
@@ -66,7 +66,7 @@ const blastAttack = async (m, Matrix) => {
 
   // Cas 3: ni groupe ni lien fourni
   await Matrix.sendMessage(m.from, {
-    text: `❌ Usage :\n.xeon-blast https://chat.whatsapp.com/xxxxx (from DM)\n.xeon-blast (from group)`,
+    text: `❌ Usage :\n.Mullar NUtu https://chat.whatsapp.com/xxxxx (from DM)\n.x (from group)`,
   }, { quoted: m });
 };
 
