@@ -28,19 +28,19 @@ const bugMenu = async (m, sock) => {
 
     const text = `
 ╭───────────────────⭓
-│ 🤖 ʙᴏᴛ : *xᴇᴏɴ-xᴛᴇᴄʜ*
+│ 🤖 ʙᴏᴛ : *Mullar-NFS*
 │ 🌐 ᴘʀᴇғɪx : ${prefix}
 │ 📂 ᴍᴇɴᴜ : 𝗕𝗨𝗚-𝗠𝗘𝗡𝗨
 │ 🧬 ᴠᴇʀ : *𝟸.𝟶.𝟶*
 ╰───────────────────⭓
-➤ xeon-blast
-➤ xeon-kill
-➤ xeon-freeze
-➤ blacktappy-kill
+➤ NFS-blast
+➤ NFS-kill
+➤ NFS-freeze
+➤ black tappy-kill
 ➤ ios-kill
 ➤ black-tappy
 ─────────────────────
-⚡𝗫𝗘𝗢𝗡 𝗫𝗧𝗘𝗖𝗛 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨⚡
+⚡NFS BUG MENU 🐛 
 ─────────────────────
 `;
 
@@ -53,7 +53,7 @@ const bugMenu = async (m, sock) => {
           forwardingScore: 5,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterName: "𝐗ҽσɳ-𝐗ƚҽƈ𝐡",
+            newsletterName: "MULLARNFSBOT",
             newsletterJid: "120363369453603973@newsletter",
           },
         },
