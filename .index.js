@@ -11,5 +11,14 @@ js
   💡 .help – See all commands`;
 }
 
+``js
+else if (msg.toLowerCase().includes(".player riqui puig")) {
+  reply = `⚽ *Riqui Puig*  
+• Nationality: Spain 🇪🇸  
+• Club: LA Galaxy  
+• Position: Midfielder  
+• Former Club: FC Barcelona  
+• Style: Creative, technical playmaker`;
+}
 
 
