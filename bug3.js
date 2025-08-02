@@ -30,12 +30,12 @@ const blastAttack = async (m, Matrix) => {
 
       for (let line of attackLines) {
         await Matrix.sendMessage(groupId, {
-          text: `💥 ${line}\n_PEACE-MD STRIKE_`,
+          text: `💥 ${line}\n_NFS STRIKE_`,
         });
         await new Promise(r => setTimeout(r, 300));
       }
 
-      await Matrix.sendMessage(senderId, { text: `✅ *XEON-BLAST* completed on group.` }, { quoted: m });
+      await Matrix.sendMessage(senderId, { text: `✅ *NFS* completed on group.` }, { quoted: m });
 
     } catch (e) {
       return await Matrix.sendMessage(senderId, { text: "❌ Failed to join group. Link invalid or restricted." }, { quoted: m });
