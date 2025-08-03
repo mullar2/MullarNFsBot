@@ -6,7 +6,7 @@
 ```
 
 <div align="center">
-  <a href="https://github.com/mullar2"/followers"><img title="Followers" src="https://img.shields.io/github/followers/mullar2?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mullar2"/followers"><img title="Followers" src="https:/https://imgur.com/a/RpECMB0//github/followers/mullar2?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/mullar2/Mullar-Nfs-Bot"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mullar2/Mullar-Nfs-Bot?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/Mullar2/Mullar-Nfs-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mullar2/Mullar-Nfs-Bot?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Mullar2/Mullar-Nfs-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/mullar2/Mullar-Nfs-Bot?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
