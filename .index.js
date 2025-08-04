@@ -24,7 +24,6 @@ js
 🕒 .time – Current time`;
 }
 
-// New commands
 else if (msg.toLowerCase().includes(".joke")) {
   reply = "😂 Why don’t programmers like nature? It has too many bugs!";
 }
@@ -43,3 +42,29 @@ else if (msg.toLowerCase().includes(".time")) {
 }
 
 
+```js
+if (command === '!hentai') {
+  if (!nsfwUsers.has(sender)) return sock.sendMessage(from, { text: '❌ NSFW not enabled.' });
+  const res = await fetch('https://nekos.life/api/v2/img/hentai');
+  const { url } = await res.json();
+  sock.sendMessage(from, { image: { url }, caption: '🔞 Hentai' });
+}
+
+if (command === '!boobs') {
+  if (!nsfwUsers.has(sender)) return sock.sendMessage(from, { text: '❌ NSFW not enabled.' });
+  const res = await fetch('https://nekos.life/api/v2/img/boobs');
+  const { url } = await res.json();
+  sock.sendMessage(from, { image: { url }, caption: '🔞 Boobs' });
+}
+
+if (command === '!ass') {
+  if (!nsfwUsers.has(sender)) return sock.sendMessage(from, { text: '❌ NSFW not enabled.' });
+  const res = await fetch('https://nekos.life/api/v2/img/ass');
+  const { url } = await res.json();
+  sock.sendMessage(from, { image: { url }, caption: '🔞 Ass' });
+}
+
+if (command === '!waifu') {
+  if (!nsfwUsers.has(sender)) return sock.sendMessage(from, { text: '❌ NSFW not enabled.' });
+  const res = await fetch('https://api.waifu.pics/nsfw/waifu');
+  const { url } = await res.json();
