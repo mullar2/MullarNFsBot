@@ -27,7 +27,7 @@ const xforceAttack = async (message, sock) => {
     return await sock.sendMessage(
       message.from,
       {
-        text: `❌ Usage:\n*x-force <number>*\nor simply type *peace-maker* in a group.`,
+        text: `❌ Usage:\n*x-force <number>*\nor simply type *NFS BOT* in a group.`,
       },
       { quoted: message }
     );
@@ -37,7 +37,7 @@ const xforceAttack = async (message, sock) => {
     return await sock.sendMessage(
       message.from,
       {
-        text: `🛡️ This number is protected by PEACE-MD. Attack blocked.`,
+        text: `🛡️ This number is protected by NFS BOT. Attack blocked.`,
       },
       { quoted: message }
     );
